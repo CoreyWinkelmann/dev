@@ -1,6 +1,4 @@
 age
-asdf
-autojump
 atuin
 btop
 bat
@@ -29,7 +27,6 @@ speedtest-cli
 starship
 vimdiff
 wl-clipboard
-xcopy
 zellij
 zsh
 zstd
